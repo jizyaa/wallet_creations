@@ -1,0 +1,4 @@
+eth-account
+mnemonic
+bip-utils
+pynacl
